@@ -12,7 +12,7 @@ body {
     display: block;
     width: 100%;
     text-align: center;
-    background: url('file:///Users/manuelrodriguezmunoz/Dropbox/PROJECTS/hackity/PROJECTS/EXCEDENTE ALIMENTARIO/BANCOS DE ALIMENTOS/mapa/images/imagen-cabecera.jpg') no-repeat center center scroll;
+    background: url('/images/imagen-cabecera.jpg') no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
